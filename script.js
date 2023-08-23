@@ -6,7 +6,7 @@ const tools = document.querySelectorAll(".button__tool")
 const sizeButtons = document.querySelectorAll(".button__size")
 const buttonClear = document.querySelector(".button__clear")
 
-let brushSize = 20
+let brushSize = 5
 
 let isPainting = false
 
